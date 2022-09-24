@@ -1,0 +1,39 @@
+body
+{
+    background-image: url('../img/cinealfa.jpg');
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+
+h1
+{
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    margin-top: 70px;
+    text-align: center;
+}
+
+a
+{
+    display: block;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 15px 25px;
+    margin: 400px 600px;
+    color: azure;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover{
+    background-color: transparent;
+    border: 2px solid aqua;
+    color: aqua;
+}
+
+
+
